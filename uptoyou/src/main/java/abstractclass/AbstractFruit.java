@@ -2,7 +2,7 @@ package abstractclass;
 
 public abstract class AbstractFruit {
 
-    public abstract void FruitJuice();
+    public abstract void fruitJuice();
 
 
     public void juiceColor(){
